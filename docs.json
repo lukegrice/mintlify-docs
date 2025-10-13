@@ -31,6 +31,15 @@
           {
             "group": "Writing content",
             "pages": [
+              {
+      "group": "Essentials",
+      "pages": [
+        "essentials/markdown",
+        "essentials/code",
+        "essentials/images",
+        "essentials/reusable-snippets"
+      ]
+    },
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
@@ -39,6 +48,7 @@
           },
           {
             "group": "AI tools",
+            
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
