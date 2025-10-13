@@ -31,6 +31,7 @@
           {
             "group": "IT Knowledgebase",
             "pages": [
+               "it/common-issues",
               {
                 "group": "Mobile Phones",
                 "pages": [
@@ -43,7 +44,7 @@
                   "mobiles/lost-charger-or-accessory"
                 ]
               },
-              "essentials/markdown",
+             
               "essentials/code",
               "essentials/images",
               "essentials/reusable-snippets"
