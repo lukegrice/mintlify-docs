@@ -32,14 +32,17 @@
             "group": "IT Knowledgebase",
             "pages": [
               {
-      "group": "Mobile Phones",
-      "pages": [
-        "calling-abroad",
-        "essentials/code",
-        "essentials/images",
-        "essentials/reusable-snippets"
-      ]
-    },
+                "group": "Mobile Phones",
+                "pages": [
+                  "mobiles/calling-internationally",
+                  "mobiles/travelling-abroad",
+                  "mobiles/apple-id-help",
+                  "mobiles/installing-apps",
+                  "mobiles/damaged-lost-phones",
+                  "mobiles/call-quality-connection",
+                  "mobiles/lost-charger-or-accessory"
+                ]
+              },
               "essentials/markdown",
               "essentials/code",
               "essentials/images",
@@ -48,7 +51,6 @@
           },
           {
             "group": "AI tools",
-            
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
@@ -112,15 +114,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
