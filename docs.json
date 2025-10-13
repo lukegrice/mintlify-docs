@@ -35,6 +35,7 @@
               "it/common-issues",
               {
                 "group": "Mobile Phones",
+                "expanded": false,
                 "pages": [
                   "mobiles/calling-internationally",
                   "mobiles/travelling-abroad",
