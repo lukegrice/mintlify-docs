@@ -30,7 +30,9 @@
           },
           {
             "group": "IT Knowledgebase",
+            
             "pages": [
+              "it/common-issues",
               {
                 "group": "Mobile Phones",
                 "pages": [
