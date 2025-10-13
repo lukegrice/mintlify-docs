@@ -3,7 +3,7 @@
   "theme": "almond",
   "name": "Mission Control Knowledgebase",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#008ef3",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -22,7 +22,15 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "Mission Control",
+            "pages": [
+              "essentials/settings",
+              "essentials/navigation"
+            ]
+          },
+
+           {
+            "group": "Training",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
@@ -50,7 +58,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "HR & GDPR",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
