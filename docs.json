@@ -52,7 +52,7 @@
               {
                 "group": "Mobile Phones",
                 "expanded": false,
-                "icon": "notebook-text",
+                "icon": "computer",
                 "pages": [
                   "mobiles/calling-internationally",
                   "mobiles/travelling-abroad",
