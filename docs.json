@@ -31,7 +31,6 @@
           {
             "group": "IT Knowledgebase",
             "pages": [
-               "it/common-issues",
               {
                 "group": "Mobile Phones",
                 "pages": [
@@ -41,10 +40,11 @@
                   "mobiles/installing-apps", 
                   "mobiles/damaged-lost-phones",
                   "mobiles/call-quality-connection",
-                  "mobiles/lost-charger-or-accessory"
+                  "mobiles/lost-charger-or-accessory",
+                  "mobiles/whatsapp"
                 ]
               },
-             
+              "essentials/markdown",
               "essentials/code",
               "essentials/images",
               "essentials/reusable-snippets"
