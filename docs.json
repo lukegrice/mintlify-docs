@@ -30,6 +30,14 @@
           },
 
            {
+            "group": "LinkedIn & Recruiter",
+            "pages": [
+              "essentials/settings",
+              "essentials/navigation"
+            ]
+          },
+
+           {
             "group": "Training",
             "pages": [
               "essentials/settings",
