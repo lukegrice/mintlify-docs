@@ -63,6 +63,19 @@
                   "mobiles/lost-charger-or-accessory",
                   "mobiles/whatsapp"
                 ]
+              },
+              {
+                "group": "Knowledgebase",
+                "expanded": false,
+                "icon": "phone",
+                "pages": [
+                  "knowledgebase/teams-missing-outlook",
+                  "knowledgebase/changing-outlook-signature",
+                  "knowledgebase/mission-control-plugin",
+                  "knowledgebase/clearing-cache-linkedin", 
+                  "knowledgebase/deleting-cookies"
+                 
+                ]
               }
             ]
           },
