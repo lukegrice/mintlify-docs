@@ -44,6 +44,7 @@
               {
                 "group": "Mobile Phones",
                 "expanded": false,
+                "icon": "notebook-text",
                 "pages": [
                   "mobiles/calling-internationally",
                   "mobiles/travelling-abroad",
